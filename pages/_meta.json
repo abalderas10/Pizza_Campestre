@@ -1,17 +1,44 @@
 {
-  "index": "Pizza Campestre, Business Plan",
-  "another": "Another Page",
+  "index": "Pizza Campestre, Plan de Negocios",
+  "another": "Otra Página",
   "Pizza Campestre": "Pizza Campestre",
   "Resumen Ejecutivo": "Resumen Ejecutivo",
-  "advanced": "Advanced",
+  "advanced": "Avanzado",
   "about": {
-    "title": "About",
-    "type": "page"
+    "title": "Acerca de",
+    "type": "página"
   },
   "contact": {
-    "title": "Contact ↗",
-    "type": "page",
+    "title": "Contacto ↗",
+    "type": "página",
     "href": "https://twitter.com/shuding_",
     "newWindow": true
-  }
+  },
+  "Analizar Ideas": "Analizar Ideas",
+  "Análisis Financiero": "Análisis Financiero",
+  "Análisis de Competencia": "Análisis de Competencia",
+  "Análisis de Mercado": "Análisis de Mercado",
+  "Carta": "Carta",
+  "Equipo": "Equipo",
+  "Food Truck": "Food Truck",
+  "Gastos": "Gastos",
+  "Historia": "Historia",
+  "Imagen": "Imagen",
+  "Impuestos": "Impuestos",
+  "Ingredientes": "Ingredientes",
+  "Inventario": "Inventario",
+  "Marco Legal": "Marco Legal",
+  "Mobiliario": "Mobiliario",
+  "Personas": "Personas",
+  "Plan de Marketing": "Plan de Marketing",
+  "Plan de Operaciones": "Plan de Operaciones",
+  "Plan de Ventas": "Plan de Ventas",
+  "Presupuesto": "Presupuesto",
+  "Procesos": "Procesos",
+  "Programa de Actividades": "Programa de Actividades",
+  "Promociones": "Promociones",
+  "Pronostico de Ventas": "Pronostico de Ventas",
+  "Receta": "Receta",
+  "Socio Fundador": "Socio Fundador",
+  "Ubicación": "Ubicación"
 }
